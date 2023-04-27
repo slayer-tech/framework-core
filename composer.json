@@ -1,6 +1,6 @@
 {
-    "name": "slayer-tech/php-framework",
-    "description": "PHP framework",
+    "name": "slayer-tech/framework-core",
+    "description": "PHP framework core",
     "type": "project",
     "license": "MIT",
     "authors": [
